@@ -32,6 +32,16 @@ Berikut adalah hasil pekerjaan saya, dapat didefinisikan sebagai point point ber
 
 Saya mengupload semua file termasuk file SQL databasenya. KECUALI folder vendor. dan mengkustomisasi file Readme.md seperti sekarang. dan project sudah siap dirun.
 
+## Cara Penggunaan Project
+
+Berikut adalah cara penggunaan website dengan framework laravel, dapat didefinisikan sebagai point point berikut ini :
+- Akses Webnya
+- anda akan diarahkan ke form login, lakukan login (username, passwrd : admin)
+- lalu masuk ke menu kelas, disana dapat menambah, edit, hapus data kelas.
+- menu mahasiswa, disana dapat menambah, edit, hapus data mahasiswa.
+- disana tertulis admin nya online atas nama Muhammad Nur Huda
+- Tambahan, jika kita ada yang tidak mengisi salah satu form maka akan muncul warning agar fieldnya diisi.
+
 ## Biodata
 
 - Nama : Muhammad Nur Huda
