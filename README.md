@@ -1,5 +1,4 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg">10515127 - Muhammad Nur Huda - ECL 9</p>
-
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
@@ -8,7 +7,6 @@
 </p>
 
 ## Langkah Pembuatan Project SI Admin Sistem Informasi UNIKOM
-
 Berikut adalah hasil pekerjaan saya, dapat didefinisikan sebagai point point berikut ini :
 - Instal Composer.
 - Copy Fresh laravel 5.7.
@@ -29,11 +27,9 @@ Berikut adalah hasil pekerjaan saya, dapat didefinisikan sebagai point point ber
 
 
 ## Hasil Pekerjaan Project
-
 Saya mengupload semua file termasuk file SQL databasenya. KECUALI folder vendor. dan mengkustomisasi file Readme.md seperti sekarang. dan project sudah siap dirun.
 
 ## Cara Penggunaan Project
-
 Berikut adalah cara penggunaan website dengan framework laravel, dapat didefinisikan sebagai point point berikut ini :
 - Akses Webnya
 - anda akan diarahkan ke form login, lakukan login (username, passwrd : admin)
@@ -43,7 +39,6 @@ Berikut adalah cara penggunaan website dengan framework laravel, dapat didefinis
 - Tambahan, jika kita ada yang tidak mengisi salah satu form maka akan muncul warning agar fieldnya diisi.
 
 ## Biodata
-
 - Nama : Muhammad Nur Huda
 - NIM  : 10515127
 - Kelas : ECL 9 ( Kamis Jam 7.00 )
